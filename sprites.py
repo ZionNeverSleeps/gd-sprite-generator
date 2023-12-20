@@ -2,6 +2,7 @@ import math
 import pygame
 import sys
 from pygame.locals import *
+#if testing is set to true, then a pygame window with all of the textures is displayed. when used in tandem with an object ID reference, entries in the spriteToObject dictionary can be filled in.
 testing = False
 if testing:
     fontpath = "C:\\Users\\hates\\Desktop\\stuff\\art\\aedimain\\mvboli.ttf"
