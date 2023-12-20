@@ -1,18 +1,7 @@
 import math
-import ceDoc
 import pygame
 import sys
-import os
 from pygame.locals import *
-import base64
-import gzip
-import struct
-import traceback
-import zlib
-from xml.dom import minidom
-from pathlib import Path
-import random
-import time
 testing = False
 if testing:
     fontpath = "C:\\Users\\hates\\Desktop\\stuff\\art\\aedimain\\mvboli.ttf"
